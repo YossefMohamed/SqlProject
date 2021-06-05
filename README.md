@@ -1,4 +1,4 @@
-# SqlProject
+# Online Booking Cinema DB
 
 **sql-projects**
 > A repository to practice using SQL
